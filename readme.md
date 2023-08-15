@@ -43,7 +43,7 @@ ssh -T git@github.com 與github連線
 ## 重要:(https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/githubs-ssh-key-fingerprints)
 ECDSA key fingerprint is ``this is a gribbish dont care``
 Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
-Warning: Permanently added 'github.com,20.27.177.113' (ECDSA) to the list of known hosts.
+Warning: Permanently added 'github.com,XX.XX.XXX.XXX' (``ECDSA``) to the list of known hosts.
 ```
 this is a gribbish dont care
 ```
