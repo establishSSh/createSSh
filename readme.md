@@ -16,8 +16,7 @@ ssh-keygen \
 ```
 
 ## 建立完 ssh 以後 ~/.ssh 將被建立 ，建立一個config 檔案
-
-
+config 檔案內容如下:
 # Github Personal
 ```
 Host personal
