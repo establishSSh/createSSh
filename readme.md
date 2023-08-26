@@ -19,15 +19,20 @@ ssh-keygen \
 
 
 # Github Personal
+```
 Host personal
+    user XXX
     HostName github.com
     IdentityFile ~/.ssh/id_rsa
-
+```
+等同於 ssh XXX@github.com
 # GitHub Company
+```
 Host company
+    user XXX
     HostName github.com
     IdentityFile ~/.ssh/id_rsa_company
-
+```
 
 
 # 建立完以後先確認是否與github連線
